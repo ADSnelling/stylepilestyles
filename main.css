@@ -4914,7 +4914,7 @@ footer {
       display: block;
       font-weight: 500 !important; }
     .article-meta .info .date {
-      color: #bbb;
+      color: #979797;
       font-size: 0.8rem;
       display: block; }
 
@@ -4930,7 +4930,7 @@ footer {
   .article-preview .preview-link p {
     font-weight: 300;
     font-size: 24px;
-    color: #999;
+    color: #616161;
     margin-bottom: 15px;
     font-size: 1rem;
     line-height: 1.3rem; }
@@ -5062,7 +5062,7 @@ footer {
 
 .profile-page .user-info {
   text-align: center;
-  background: #f3f3f3;
+  background: #F3CB4D;
   padding: 2rem 0 1rem 0; }
   .profile-page .user-info .user-img {
     width: 100px;
