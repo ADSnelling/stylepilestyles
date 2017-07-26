@@ -4882,8 +4882,8 @@ footer {
 
 .banner {
   color: #4DC8F3;
-  background: #333;
-  padding: 2rem;
+  background: #444444;
+  padding: 2rem;0
   margin-bottom: 2rem; }
   .banner h1 {
     text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
