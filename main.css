@@ -60,7 +60,7 @@ a {
   color: #4DC8F3;
   text-decoration: none; }
   a:focus, a:hover {
-    color: #3d8b3d;
+    color: #41acd1;
     text-decoration: underline; }
   a:focus {
     outline: thin dotted;
@@ -1412,10 +1412,10 @@ pre {
   font-size: 1rem;
   line-height: 1.25;
   color: rgba(0, 0, 0, 0.71);
-  background-color: rgba(77, 243, 203, 0.22);
+  background-color: rgba(77, 243, 203, 0);
   background-image: none;
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.15);
+  border: 1.5px solid rgba(0, 0, 0, 0.28);
   border-radius: 0.25rem; }
   .form-control::-ms-expand {
     background-color: transparent;
@@ -5040,7 +5040,10 @@ footer {
     border-radius: 30px; }
   .article-page .card .comment-author {
     display: inline-block;
-    vertical-align: middle; }
+    vertical-align: middle;
+    font-size: 17px;
+    background-color: rgba(255, 243, 201, 0.38);
+    border-radius: 2.5px; }
   .article-page .card .date-posted {
     display: inline-block;
     vertical-align: middle;
