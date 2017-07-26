@@ -2754,7 +2754,9 @@ input[type="button"].btn-block {
 
 .navbar {
   position: relative;
-  padding: 0.5rem 1rem; }
+  padding: 0.5rem 10rem; 
+  background-color: rgba(255, 255, 255, 0.57); }
+
   .navbar::after {
     content: "";
     display: table;
