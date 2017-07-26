@@ -11,7 +11,7 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   color: #373a3c;
-  background-color: #fff; }
+  background-color: rgba(255, 241, 191, 0.84); }
 
 [tabindex="-1"]:focus {
   outline: none !important; }
@@ -1412,7 +1412,7 @@ pre {
   font-size: 1rem;
   line-height: 1.25;
   color: #55595c;
-  background-color: #fff;
+  background-color: rgba(77, 243, 203, 0.22);
   background-image: none;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -4854,9 +4854,9 @@ ul.tag-list {
   .nav-pills.outline-active .nav-link:hover {
     color: #555; }
   .nav-pills.outline-active .nav-link.active {
-    background: #fff !important;
+    background: rgba(0, 0, 0, 0.08) !important;
     border-bottom: 2px solid #7b7b7b !important;
-    color: #7b7b7b !important; }
+    color: #5a5a5a !important; }
 
 footer {
   background: #f3f3f3;
@@ -4974,7 +4974,7 @@ footer {
 
 .home-page .sidebar {
   padding: 5px 10px 10px 10px;
-  background: #f3f3f3;
+  background: rgba(0, 0, 0, 0.08);
   border-radius: 4px; }
   .home-page .sidebar p {
     margin-bottom: 0.2rem; }
